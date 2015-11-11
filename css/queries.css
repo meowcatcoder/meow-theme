@@ -13,7 +13,8 @@
 		padding: 50px 0 100px 0!important;
 	}
 
-	.wrapper { background: #f3f5f8; height: 640px; }
+	.wrapper { background: #f3f5f8; height: 480px; 
+	 }
 	.iphone { display: none; }
 	.fluid-white { display: none; }
 	.wp2, .wp4, .wp5, .light-box { margin-bottom: 30px; }
